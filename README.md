@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=300&section=header&text=⚔️%20codewith%20mohan0%20⚔️&fontSize=70&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=Town%20Hall%2015%20Developer%20|%20Code%20Warrior%20|%203-Star%20Programmer&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=300&section=header&text=⚔️%20codewithmohan0%20⚔️&fontSize=70&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=Town%20Hall%2015%20Developer%20|%20Code%20Warrior%20|%203-Star%20Programmer&descAlignY=55&descSize=20)
 
 ### 🏆 *"Clash by Day, Code by Night"* 🏆
 
