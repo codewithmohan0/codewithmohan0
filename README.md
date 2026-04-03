@@ -129,8 +129,7 @@ while (alive) {
 
 [![GitHub](https://img.shields.io/badge/🏰_GitHub_Castle-Visit_Base-181717?style=for-the-badge&logo=github)](https://github.com/codewithmohan0)
 [![LinkedIn](https://img.shields.io/badge/🤝_LinkedIn_Clan-Join_Alliance-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/📧_Send_Alliance_Request-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/🏆_Visit_My_Village-000000?style=for-the-badge&logo=vercel)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/📧_Send_Alliance_Request-D14836?style=for-the-badge&logo=gmail)](mailto:mohanrizal01@gmail.com)
 
 </div>
 
