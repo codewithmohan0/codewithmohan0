@@ -147,13 +147,7 @@ while (alive) {
 
 ---
 
-## 🎖️ **PLAYER TAG**
 
-<div align="center">
-
-**⚔️ "Attacking bugs since 2024" ⚔️**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithmohan0&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=F7B801&line=F7B801&point=ffffff)
 
 ![Visitor Count](https://profile-counter.glitch.me/codewithmohan0/count.svg)
 
